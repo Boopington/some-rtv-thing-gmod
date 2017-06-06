@@ -1,0 +1,10 @@
+"AddonInfo"
+{
+	"name"			"TTT RTV System"
+	"version"		"1.0"
+	"up_date"		""
+	"author_name"		"Someone, updated by Boopington"
+	"author_email"		""
+	"author_url"		""
+	"info"			"Some RTV plugin"
+}
